@@ -11,7 +11,7 @@ telegram: [Анастасия](https://t.me/nastyatugun)
 
 Учебные проекты на платформе Нетология:
 
-1. [Курсовая работа по модулю "ООП и работа с API"](https://github.com/AnastasiaTugunova/DZ_Kursovaya/tree/main)
+[1. Курсовая работа по модулю "ООП и работа с API"](https://github.com/AnastasiaTugunova/DZ_Kursovaya/tree/main)
 
 С помощью API Я.Диска написала программу, которая:
 
@@ -19,7 +19,7 @@ telegram: [Анастасия](https://t.me/nastyatugun)
    * сохраненяет фотографии с VK в ЯД;
    * возвращает JSON-файл с информацией о фотографиях.
 
-2. [Командный проект по модулю "Профессиональная работа с Python»"](https://github.com/NadezhdaLimanova/VKinder)
+[2. Командный проект по модулю "Профессиональная работа с Python»"](https://github.com/NadezhdaLimanova/VKinder)
 
   * спроектировала и реализовала базу данных для программы (ORM);
   * интегрировала бота в БД(функции по реализации и вытягивания записей в БД);
