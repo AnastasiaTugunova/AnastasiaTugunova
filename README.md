@@ -22,7 +22,7 @@ telegram: [Анастасия](https://t.me/nastyatugun)
 [2. Командный проект по модулю "Профессиональная работа с Python»"](https://github.com/NadezhdaLimanova/VKinder)
 
   * спроектировала и реализовала базу данных для программы (ORM);
-  * интегрировала бота в БД(функции по реализации и вытягивания записей в БД);
+  * интегрировала бота в БД(функции по реализации и вытягивания записей БД);
   * Code Review всего проекта;
 <!--
 **AnastasiaTugunova/AnastasiaTugunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
